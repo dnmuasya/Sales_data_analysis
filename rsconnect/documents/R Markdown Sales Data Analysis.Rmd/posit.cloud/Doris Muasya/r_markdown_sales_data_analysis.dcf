@@ -1,0 +1,12 @@
+name: r_markdown_sales_data_analysis
+title: R Markdown Sales Data Analysis
+username: Doris Muasya
+account: Doris Muasya
+server: posit.cloud
+hostUrl: https://api.posit.cloud/v1
+appId: 7361085
+bundleId: 8145806
+url: https://posit.cloud/content/7361085
+version: 1
+asMultiple: FALSE
+asStatic: TRUE
